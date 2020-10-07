@@ -6,7 +6,7 @@ function Footer() {
  <a href="https://info.mch.ifsuldeminas.edu.br/" target ="_blank"> 
  IFSULDEMINAS 
  </a> 
- <p>Baseado nos conteúdos da Imersão React Alura</p>  </FooterBase> 
+ <p>Elenna e Mainara</p>  </FooterBase> 
  ); 
 } 
 export default Footer;

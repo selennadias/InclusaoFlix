@@ -1,7 +1,7 @@
 {
   "categorias": [
     {
-      "titulo": "Nossos Vídeos",
+      "titulo": "Lei 13.146/15",
       "link": "https://www.alura.com.br/formacao-front-end",
       "cor": "#6BD1FF",
       "link_extra": {
@@ -10,36 +10,32 @@
       },
       "videos": [
         {
-          "titulo": "O que é Inclusão Social",
-          "url": "https://www.youtube.com/watch?v=DFRJC9FEH2k"
+          "titulo": "Inclusão Social",
+          "url": "hhttps://youtu.be/ChndINkkadE"
         },
         {
-          "titulo": "Historia do Arduino",
-          "url": "https://youtu.be/9nucMfF15Ik"
+          "titulo": "Introdução ",
+          "url": "https://www.youtube.com/watch?v=W21qAoA9k7M&list=PLO3hBdfBc4pHtXQRg3XGXj4EuGD4nnH9S&index=1"
         },
         {
-          "titulo": "Conceitos de Eletrônica para Arduino",
-          "url": "https://youtu.be/1_4Psagxtps"
+          "titulo": "Conceitos preliminares da Lei Inclusão",
+          "url": "https://www.youtube.com/watch?v=f7UCys-SLpM&list=PLO3hBdfBc4pHtXQRg3XGXj4EuGD4nnH9S&index=2"
         },
         {
-          "titulo": "Conceitos básicos de Logica de programação",
-          "url": "https://youtu.be/i7CabAnxA5Q"
+          "titulo": "Acessibilidade ou inclusao",
+          "url": "https://www.youtube.com/watch?v=4mS23CcPDI8"
         },
         {
-          "titulo": "Primeira Aula Pratica",
-          "url": "https://youtu.be/KYPX_cxAFN0"
+          "titulo": "Conheça os principais aspectos da Lei Brasileira de Inclusão",
+          "url": "https://www.youtube.com/watch?v=B8e5ZjDjNR0"
         },
         {
-          "titulo": "Qual é a melhor linguagem de programação? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=Uh-GNH-t89w"
+          "titulo": "Do Direito à Educação",
+          "url": "https://www.youtube.com/watch?v=fx59SfYfTyE&list=PLO3hBdfBc4pHtXQRg3XGXj4EuGD4nnH9S&index=8"
         },
         {
-          "titulo": "Novidades do Angular v9",
-          "url": "https://www.youtube.com/watch?v=34uHo7hFmG0"
-        },
-        {
-          "titulo": "Base para aprender os frameworks",
-          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
+          "titulo": "Lei da inclusão da pessoa com deficiência",
+          "url": "https://www.youtube.com/watch?v=HsAcOtGwwRc"
         }
       ]
     },
@@ -116,20 +112,20 @@
       "cor": "orange",
       "videos": [
         {
-          "titulo": "Interestellar",
-          "url": "https://www.youtube.com/watch?v=frD_IiY_A3E"
+          "titulo": "Cordas",
+          "url": "https://www.youtube.com/watch?v=4INwx_tmTKw&t=74s"
         },
         {
-          "titulo": "Gattaca",
-          "url": "https://www.youtube.com/watch?v=Dl0tYLbrhhs"
+          "titulo": "A pessoa é para o que nasce",
+          "url": "https://www.youtube.com/watch?v=fBit6jVdgKQ"
         },
         {
-          "titulo": "A Chegada",
-          "url": "https://www.youtube.com/watch?v=rNciXGzYZms"
+          "titulo": "Janela da Alma",
+          "url": "https://www.youtube.com/watch?v=47VEtw2JMU0"
         },
         {
-          "titulo": "Feitiço do Tempo",
-          "url": "https://www.youtube.com/watch?v=zi8d69P9NvI"
+          "titulo": "E Seu Nome é Jonas",
+          "url": "https://www.youtube.com/watch?v=ZqPA9g-YerE"
         }
       ]
     },

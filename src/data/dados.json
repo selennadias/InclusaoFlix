@@ -1,9 +1,9 @@
 {
   "categorias": [
     {
-      "titulo": "Lei 13.146/15",
+      "titulo": "Inclusao social",
       "link": "https://www.alura.com.br/formacao-front-end",
-      "cor": "#6BD1FF",
+      "cor": "#424242",
       "link_extra": {
         "text": "Formação de Front End na Alura",
         "url": "https://www.alura.com.br/cursos-online-front-end"
@@ -14,12 +14,12 @@
           "url": "hhttps://youtu.be/ChndINkkadE"
         },
         {
-          "titulo": "Introdução ",
-          "url": "https://www.youtube.com/watch?v=W21qAoA9k7M&list=PLO3hBdfBc4pHtXQRg3XGXj4EuGD4nnH9S&index=1"
+          "titulo": "O que é Inclusão Social ",
+          "url": "https://www.youtube.com/watch?v=YANkt_e3PoE&t=24s"
         },
         {
-          "titulo": "Conceitos preliminares da Lei Inclusão",
-          "url": "https://www.youtube.com/watch?v=f7UCys-SLpM&list=PLO3hBdfBc4pHtXQRg3XGXj4EuGD4nnH9S&index=2"
+          "titulo": "Inclusão e Acessibilidade - Surdez e Deficiência Auditiva",
+          "url": "https://www.youtube.com/watch?v=ovKqMQGSj_c"
         },
         {
           "titulo": "Acessibilidade ou inclusao",
@@ -40,70 +40,106 @@
       ]
     },
     {
-      "titulo": "Fundamentos de Computação",
-      "cor": "#00C86F",
+      "titulo": "Curso Jaws",
+      "cor": "#b8860b",
       "link_extra": {
         "text": "Cursos de Back End na Alura",
         "url": "https://www.alura.com.br/cursos-online-programacao"
       },
       "videos": [
         {
-          "titulo": "Fundamentos de Computação - Capitulo 1 (1º Parte)",
-          "url": "https://youtu.be/EQ3f7S70gk4"
+          "titulo": "Bem-vindo ao curso",
+          "url": "https://www.youtube.com/watch?v=YvDnWOIEs_0&list=PL97gQ9M95E9uS8In1cnkXPAT_ROdx7f7y"
         },
         {
-          "titulo": "Fundamentos de Computação - Capitulo 1 (2º Parte)",
-          "url": "https://youtu.be/r-o-BN9t5tw"
+          "titulo": "O que é um leitor de tela",
+          "url": "https://www.youtube.com/watch?v=Jpa2rtmrhYQ&list=PL97gQ9M95E9uS8In1cnkXPAT_ROdx7f7y&index=2"
         },
         {
-          "titulo": "Fundamentos de Computação Capitulo 2 (1º Parte)",
-          "url": "https://youtu.be/A5d32FgPH3Q"
+          "titulo": "A história do JAWS",
+          "url": "https://www.youtube.com/watch?v=V28RBgBLIIQ&list=PL97gQ9M95E9uS8In1cnkXPAT_ROdx7f7y&index=3"
         },
         {
-          "titulo": "Fundamentos de Computação Capitulo 2 (2º Parte)",
-          "url": "https://youtu.be/fvBPRiugQv4"
+          "titulo": "Instalar o software no Windows",
+          "url": "https://www.youtube.com/watch?v=YSwDg6LmBGU&list=PL97gQ9M95E9uS8In1cnkXPAT_ROdx7f7y&index=4"
         },
         {
-          "titulo": "Fundamentos de Computação Capitulo 4",
-          "url": "https://youtu.be/hHYqCmJkJKo"
+          "titulo": "Gerenciar os arquivos e pastas do Windows",
+          "url": "https://www.youtube.com/watch?v=TTs_pjyuekQ&list=PL97gQ9M95E9uS8In1cnkXPAT_ROdx7f7y&index=5"
         },
         {
-          "titulo": "Fundamentos de Computação Capitulo 5 instalação do windows 10 parte 1",
-          "url": "https://youtu.be/5WhkAu77AEo"
+          "titulo": "Ler texto no Word",
+          "url": "https://www.youtube.com/watch?v=QSke3V1ekx8&list=PL97gQ9M95E9uS8In1cnkXPAT_ROdx7f7y&index=6"
         },
         {
-          "titulo": "Fundamentos de Computação Capitulo 5 instalação do windows 10 parte 2",
-          "url": "https://youtu.be/cCboDBE5ZXc"
+          "titulo": "Digitar seu texto no Bloco de Notas",
+          "url": "https://www.youtube.com/watch?v=ZQzj6M9W3HQ&list=PL97gQ9M95E9uS8In1cnkXPAT_ROdx7f7y&index=7"
         },
         {
-          "titulo": "Fundamentos de Computação Capitulo 5 instalação do windows 10 parte 3",
-          "url": "https://youtu.be/Wss7jGz2Paw"
+          "titulo": "Usar o navegador Firefox",
+          "url": "https://www.youtube.com/watch?v=KGGT0lA07EI&list=PL97gQ9M95E9uS8In1cnkXPAT_ROdx7f7y&index=8"
+        },
+		
+		{
+          "titulo": "Navegar em um site acessível no Firefox",
+          "url": "https://www.youtube.com/watch?v=eqFkjVLr3EU&list=PL97gQ9M95E9uS8In1cnkXPAT_ROdx7f7y&index=9"
+        },
+		
+		{
+          "titulo": "Enviar e-mail com um anexo no Thunderbird",
+          "url": "https://www.youtube.com/watch?v=jo7VtBuJX8g&list=PL97gQ9M95E9uS8In1cnkXPAT_ROdx7f7y&index=10"
+        },
+		
+		{
+          "titulo": "O que você aprendeu no curso",
+          "url": "https://www.youtube.com/watch?v=DOJOqxKofag&list=PL97gQ9M95E9uS8In1cnkXPAT_ROdx7f7y&index=11"
+        },
+		
+		{
+          "titulo": "As vantagens do JAWS",
+          "url": "https://www.youtube.com/watch?v=1L766RbAZlY&list=PL97gQ9M95E9uS8In1cnkXPAT_ROdx7f7y&index=12"
         }
       ]
     },
     {
-      "titulo": "Data Science e Inteligência Artificial",
-      "cor": "#9cd33b",
+      "titulo": "Curso Libras",
+      "cor": "#090a16",
       "link_extra": {
         "text": "Cursos de Data Science na Alura",
         "url": "https://www.alura.com.br/formacao-data-science"
       },
       "videos": [
         {
-          "titulo": "Teste de Turing",
-          "url": "https://www.youtube.com/watch?v=BaPGU4JWa34"
+          "titulo": "Aula 01",
+          "url": "https://www.youtube.com/watch?v=vJhlGLu9y_s&list=PLLLcJBnPoJ1HMom9Usa8hGzCcUnLqep1Y&index=1"
         },
         {
-          "titulo": "O que é Data Science?",
-          "url": "https://www.youtube.com/watch?v=5b9Z8toVaAU&t=9s"
+          "titulo": "Aula 02",
+          "url": "https://www.youtube.com/watch?v=UauNiFimI8g&list=PLLLcJBnPoJ1HMom9Usa8hGzCcUnLqep1Y&index=2"
         },
         {
-          "titulo": "Melhor forma de aprender Python",
-          "url": "https://www.youtube.com/watch?v=Gojqw9BQ5qY"
+          "titulo": "Aula 03",
+          "url": "https://www.youtube.com/watch?v=4I3hjWBT64I&list=PLLLcJBnPoJ1HMom9Usa8hGzCcUnLqep1Y&index=3"
         },
+		
+		 {
+          "titulo": "Aula 04",
+          "url": "https://www.youtube.com/watch?v=tpUq0ecCvCI&list=PLLLcJBnPoJ1HMom9Usa8hGzCcUnLqep1Y&index=4"
+        },
+		
+		 {
+          "titulo": "Aula 05",
+          "url": "https://www.youtube.com/watch?v=TexBnzXNzHQ&list=PLLLcJBnPoJ1HMom9Usa8hGzCcUnLqep1Y&index=5"
+        },
+		
+		 {
+          "titulo": "Aula 06",
+          "url": "https://www.youtube.com/watch?v=ScgWDefovV8&list=PLLLcJBnPoJ1HMom9Usa8hGzCcUnLqep1Y&index=6"
+        },
+		
         {
-          "titulo": "Como ingressar no mercado de Data Science?",
-          "url": "https://www.youtube.com/watch?v=gxyjGmOV540"
+          "titulo": "Aula 07",
+          "url": "https://www.youtube.com/watch?v=rAZ0HJ2kSys&list=PLLLcJBnPoJ1HMom9Usa8hGzCcUnLqep1Y&index=7"
         }
       ]
     },

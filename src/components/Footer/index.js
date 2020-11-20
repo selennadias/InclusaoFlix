@@ -1,10 +1,12 @@
 import React from "react"; 
-import { FooterBase } from "./styles"; 
+import { FooterBase } from "./styles";
+import logo from "../../assets/i1.png"
+
+
 function Footer() { 
  return ( 
  <FooterBase> 
- <a href="https://info.mch.ifsuldeminas.edu.br/" target ="_blank"> 
- IFSULDEMINAS 
+ <a>  <img src={logo} className="Logo" alt="InclusaoFlix Logo"/>
  </a> 
  <p>Elenna e Mainara</p>  </FooterBase> 
  ); 

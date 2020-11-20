@@ -3,9 +3,10 @@
     font-family: 'Source Sans Pro', sans-serif;
     }
     :root {
-    --primary: #2A7AE4;
+    --primary:  #000000;
+    ;
     --black: #000000;
-    --blackLighter: #9E9E9E;
+    --blackLighter:#110445;
     --grayLight: #F5F5F5;
     --grayMedium: #e5e5e5;
     --white: #FFFFFF;

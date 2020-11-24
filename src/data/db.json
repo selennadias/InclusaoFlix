@@ -11,50 +11,50 @@
       "id": 2,
       "titulo": "Curso Jaws",
       "cor": "#b8860b",
-      "descricao": "IFSULDEMINAS - Campus Machadoa",
+      "descricao": "IFSULDEMINAS - Campus Machado",
       "url": "https://info.mch.ifsuldeminas.edu.br/"
     },
     {
       "id": 3,
       "titulo": "Curso Libras",
       "cor": "#090a16",
-      "descricao": "Formação de Front End na Alura",
-      "url": "https://www.alura.com.br/cursos-online-front-end"
+      "descricao": "IFSULDEMINAS - Campus Machado",
+      "url": "https://info.mch.ifsuldeminas.edu.br/"
     }
   ],
   "videos": [
     {
       "id": 1,
       "categoriaId": 1,
-      "titulo": "O que é Arduino",
-      "description": "O que é Arduino",
-      "url": "https://www.youtube.com/watch?v=-iOuF0qSlv4"
+      "titulo": "O que é Inclusão Social ",
+      "description": "O que é Inclusão Social ",
+      "url": "https://www.youtube.com/watch?v=YANkt_e3PoE&t=24s"
     },
     {
       "id": 2,
       "categoriaId": 1,
-      "titulo": "Historia do Arduino",
-      "description": "Historia do Arduino",
-      "url": "https://youtu.be/9nucMfF15Ik"
+      "titulo": "Inclusão e Acessibilidade - Surdez e Deficiência Auditiva",
+      "description": "Inclusão e Acessibilidade",
+      "url": "https://www.youtube.com/watch?v=ovKqMQGSj_c"
     },
     {
       "id": 3,
       "categoriaId": 2,
-      "titulo": "Introdução ao Scratch - Curso de Algoritmos",
-      "description": "Introdução ao Scratch",
-      "url": "https://www.youtube.com/watch?v=GrPkuk1ezyo"
+      "titulo": "Acessibilidade ou inclusao",
+      "description": "Acessibilidade ou inclusao",
+      "url": "https://www.youtube.com/watch?v=4mS23CcPDI8"
     },
     {
       "id": 4,
       "categoriaId": 3,
-      "titulo": "Qual é a melhor linguagem de programação? #HipstersPontoTube",
-      "url": "https://www.youtube.com/watch?v=Uh-GNH-t89w"
+      "titulo": "Aula 01",
+      "url": "https://www.youtube.com/watch?v=vJhlGLu9y_s&list=PLLLcJBnPoJ1HMom9Usa8hGzCcUnLqep1Y&index=2"
     },
     {
       "id": 5,
       "categoriaId": 3,
-      "titulo": "Novidades do Angular v9",
-      "url": "https://www.youtube.com/watch?v=34uHo7hFmG0"
+      "titulo": "Aula 02",
+      "url": "https://www.youtube.com/watch?v=vJhlGLu9y_s&list=PLLLcJBnPoJ1HMom9Usa8hGzCcUnLqep1Y&index=2"
     }
   ]
 }

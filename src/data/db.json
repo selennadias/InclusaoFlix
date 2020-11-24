@@ -2,22 +2,22 @@
   "categorias": [
     {
       "id": 1,
-      "titulo": "Arduino",
-      "cor": "#6BD1FF",
+      "titulo": "Inclusao social",
+      "cor": "#424242",
       "descricao": "IFSULDEMINAS - Campus Machado",
       "url": "https://info.mch.ifsuldeminas.edu.br/"
     },
     {
       "id": 2,
-      "titulo": "Fundamentos de Computação",
-      "cor": "green",
+      "titulo": "Curso Jaws",
+      "cor": "#b8860b",
       "descricao": "IFSULDEMINAS - Campus Machadoa",
       "url": "https://info.mch.ifsuldeminas.edu.br/"
     },
     {
       "id": 3,
-      "titulo": "Front End",
-      "cor": "#6BD1FF",
+      "titulo": "Curso Libras",
+      "cor": "#090a16",
       "descricao": "Formação de Front End na Alura",
       "url": "https://www.alura.com.br/cursos-online-front-end"
     }

@@ -1,0 +1,16 @@
+.corpo {
+    padding-top: 100px;
+    color: white;
+    display: block;
+    
+    
+}
+    
+  
+  @media (max-width: 800px) {
+    .corpo {
+      padding-top: 50px;
+    }
+  
+
+}

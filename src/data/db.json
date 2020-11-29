@@ -20,6 +20,20 @@
       "cor": "#090a16",
       "descricao": "IFSULDEMINAS - Campus Machado",
       "url": "https://info.mch.ifsuldeminas.edu.br/"
+    },
+    {
+      "titulo": "TDCIS",
+      "descricao": "TDCIS",
+      "url": "https://www.canalti.com.br/",
+      "cor": "#da9010",
+      "id": 4
+    },
+    {
+      "titulo": "Tecnologia  Assistida",
+      "descricao": "Tecnologia Assistida",
+      "url": "https://www.canalti.com.br/",
+      "cor": "#924545",
+      "id": 5
     }
   ],
   "videos": [

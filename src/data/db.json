@@ -4,92 +4,248 @@
       "id": 1,
       "titulo": "Inclusao social",
       "cor": "#424242",
-      "descricao": "IFSULDEMINAS - Campus Machado",
-      "url": "https://info.mch.ifsuldeminas.edu.br/"
+      "descricao": "Sobre",
+      "url": "https://www.politize.com.br/inclusao-social/"
     },
     {
-      "id": 2,
       "titulo": "Curso Jaws",
+      "descricao": "Download",
+      "url": "https://support.freedomscientific.com/Downloads/JAWS",
       "cor": "#b8860b",
-      "descricao": "IFSULDEMINAS - Campus Machado",
-      "url": "https://info.mch.ifsuldeminas.edu.br/"
+      "id": 2
     },
     {
-      "id": 3,
-      "titulo": "Curso Libras",
+      "titulo": "Cursos Libras",
+      "descricao": "Portal",
+      "url": "https://www.libras.com.br/",
       "cor": "#090a16",
-      "descricao": "IFSULDEMINAS - Campus Machado",
-      "url": "https://info.mch.ifsuldeminas.edu.br/"
+      "id": 3
     },
     {
-      "titulo": "TDCIS",
-      "descricao": "TDCIS",
-      "url": "https://www.canalti.com.br/",
-      "cor": "#da9010",
+      "titulo": "Filmes",
+      "descricao": "Mais",
+      "url": "https://www.librasol.com.br/10-filmes-para-quem-quer-entender-melhor-sobre-surdos/",
+      "cor": "#ffa500",
       "id": 4
-    },
-    {
-      "titulo": "Tecnologia  Assistida",
-      "descricao": "Tecnologia Assistida",
-      "url": "https://www.canalti.com.br/",
-      "cor": "#924545",
-      "id": 5
     }
   ],
   "videos": [
     {
-      "id": 1,
-      "categoriaId": 1,
       "titulo": "O que é Inclusão Social ",
       "description": "O que é Inclusão Social ",
-      "url": "https://www.youtube.com/watch?v=YANkt_e3PoE&t=24s"
-    },
-    {
-      "id": 2,
+      "url": "https://www.youtube.com/watch?v=WWqH4fDpZnw&feature=youtu.be",
       "categoriaId": 1,
+      "id": 1
+    },
+    {
+      "titulo": "O que é Inclusão Social",
+      "description": "Conceitos Inclusão Social",
+      "url": "youtube.com/watch?v=YANkt_e3PoE&feature=emb_logo",
+      "categoriaId": 1,
+      "id": 2
+    },
+    {
       "titulo": "Inclusão e Acessibilidade - Surdez e Deficiência Auditiva",
-      "description": "Inclusão e Acessibilidade",
-      "url": "https://www.youtube.com/watch?v=ovKqMQGSj_c"
+      "description": "Tipos de Acessibilidade",
+      "url": "https://www.youtube.com/watch?v=ovKqMQGSj_c",
+      "categoriaId": 1,
+      "id": 3
     },
     {
-      "id": 3,
-      "categoriaId": 2,
-      "titulo": "Acessibilidade ou inclusao",
-      "description": "Acessibilidade ou inclusao",
-      "url": "https://www.youtube.com/watch?v=4mS23CcPDI8"
+      "titulo": "Acessibilidade ou inclusão",
+      "description": "Principais Pontos",
+      "url": "https://www.youtube.com/watch?v=4mS23CcPDI8",
+      "categoriaId": 1,
+      "id": 4
     },
     {
-      "id": 4,
-      "categoriaId": 3,
-      "titulo": "Aula 01",
-      "url": "https://www.youtube.com/watch?v=vJhlGLu9y_s&list=PLLLcJBnPoJ1HMom9Usa8hGzCcUnLqep1Y&index=2"
+      "titulo": "Conheça os principais aspectos da Lei Brasileira de Inclusão",
+      "description": "Principais Conceitos da lei de acessibilidade",
+      "url": "https://www.youtube.com/watch?v=B8e5ZjDjNR0",
+      "categoriaId": 1,
+      "id": 5
     },
     {
-      "id": 5,
-      "categoriaId": 3,
-      "titulo": "Aula 02",
-      "url": "https://www.youtube.com/watch?v=vJhlGLu9y_s&list=PLLLcJBnPoJ1HMom9Usa8hGzCcUnLqep1Y&index=2"
-    },
-    {
-      "titulo": "Um dever de Todos",
-      "description": "História",
-      "url": "https://www.youtube.com/watch?v=6faeyDQgGqc",
+      "titulo": "Do Direito à Educação",
+      "description": "Principais Direitos",
+      "url": "https://www.youtube.com/watch?v=fx59SfYfTyE&list=PLO3hBdfBc4pHtXQRg3XGXj4EuGD4nnH9S&index=8",
       "categoriaId": 1,
       "id": 6
     },
     {
-      "titulo": "Um dever de Todos",
-      "description": "História",
-      "url": "https://www.youtube.com/watch?v=6faeyDQgGqc",
+      "titulo": "Lei da inclusão da pessoa com deficiência",
+      "description": "Lei ",
+      "url": "https://www.youtube.com/watch?v=HsAcOtGwwRc",
       "categoriaId": 1,
       "id": 7
     },
     {
-      "titulo": "aa",
-      "description": "aa",
-      "url": "aa",
-      "categoriaId": 1,
+      "titulo": "Bem-vindo ao curso",
+      "description": "Descrição do curso JAWS",
+      "url": "https://www.youtube.com/watch?v=YvDnWOIEs_0&list=PL97gQ9M95E9uS8In1cnkXPAT_ROdx7f7y",
+      "categoriaId": 2,
       "id": 8
+    },
+    {
+      "titulo": "O que é um leitor de tela",
+      "description": "Definição de Um leitor de tela",
+      "url": "https://www.youtube.com/watch?v=Jpa2rtmrhYQ&list=PL97gQ9M95E9uS8In1cnkXPAT_ROdx7f7y&index=2",
+      "categoriaId": 2,
+      "id": 9
+    },
+    {
+      "titulo": "A história do JAWS",
+      "description": "História",
+      "url": "https://www.youtube.com/watch?v=V28RBgBLIIQ&list=PL97gQ9M95E9uS8In1cnkXPAT_ROdx7f7y&index=3",
+      "categoriaId": 2,
+      "id": 10
+    },
+    {
+      "titulo": "Instalar o software no Windows",
+      "description": "Como Instalar o Aplicativo",
+      "url": "https://www.youtube.com/watch?v=YSwDg6LmBGU&list=PL97gQ9M95E9uS8In1cnkXPAT_ROdx7f7y&index=4",
+      "categoriaId": 2,
+      "id": 11
+    },
+    {
+      "titulo": "Gerenciar os arquivos e pastas do Windows",
+      "description": "Como Gerenciar arquivos e pastas",
+      "url": "https://www.youtube.com/watch?v=TTs_pjyuekQ&list=PL97gQ9M95E9uS8In1cnkXPAT_ROdx7f7y&index=5",
+      "categoriaId": 2,
+      "id": 12
+    },
+    {
+      "titulo": "Ler texto no Word",
+      "description": "Como usar o Word",
+      "url": "https://www.youtube.com/watch?v=QSke3V1ekx8&list=PL97gQ9M95E9uS8In1cnkXPAT_ROdx7f7y&index=6",
+      "categoriaId": 2,
+      "id": 13
+    },
+    {
+      "titulo": "Digitar seu texto no Bloco de Notas",
+      "description": "Como usar o Bloco de Notas",
+      "url": "https://www.youtube.com/watch?v=ZQzj6M9W3HQ&list=PL97gQ9M95E9uS8In1cnkXPAT_ROdx7f7y&index=7",
+      "categoriaId": 2,
+      "id": 14
+    },
+    {
+      "titulo": "Usar o navegador Firefox",
+      "description": "Como usar o Firefox",
+      "url": "https://www.youtube.com/watch?v=KGGT0lA07EI&list=PL97gQ9M95E9uS8In1cnkXPAT_ROdx7f7y&index=8",
+      "categoriaId": 2,
+      "id": 15
+    },
+    {
+      "titulo": "Navegar em um site acessível no Firefox",
+      "description": "Navegar com Firefox",
+      "url": "https://www.youtube.com/watch?v=eqFkjVLr3EU&list=PL97gQ9M95E9uS8In1cnkXPAT_ROdx7f7y&index=9",
+      "categoriaId": 2,
+      "id": 16
+    },
+    {
+      "titulo": "Enviar e-mail com um anexo no Thunderbird",
+      "description": "Como usar Thunderbird",
+      "url": "https://www.youtube.com/watch?v=jo7VtBuJX8g&list=PL97gQ9M95E9uS8In1cnkXPAT_ROdx7f7y&index=10",
+      "categoriaId": 2,
+      "id": 17
+    },
+    {
+      "titulo": "O que você aprendeu no curso",
+      "description": "Considerações",
+      "url": "https://www.youtube.com/watch?v=DOJOqxKofag&list=PL97gQ9M95E9uS8In1cnkXPAT_ROdx7f7y&index=11",
+      "categoriaId": 1,
+      "id": 18
+    },
+    {
+      "titulo": "As vantagens do JAWS",
+      "description": "Principais Vantagens",
+      "url": "https://www.youtube.com/watch?v=1L766RbAZlY&list=PL97gQ9M95E9uS8In1cnkXPAT_ROdx7f7y&index=12",
+      "categoriaId": 2,
+      "id": 19
+    },
+    {
+      "titulo": "Aula 01",
+      "description": "Aula 01",
+      "url": "https://www.youtube.com/watch?v=vJhlGLu9y_s&list=PLLLcJBnPoJ1HMom9Usa8hGzCcUnLqep1Y&index=1",
+      "categoriaId": 3,
+      "id": 20
+    },
+    {
+      "titulo": "Aula 02",
+      "description": "Aula 02",
+      "url": "https://www.youtube.com/watch?v=UauNiFimI8g&list=PLLLcJBnPoJ1HMom9Usa8hGzCcUnLqep1Y&index=2",
+      "categoriaId": 3,
+      "id": 21
+    },
+    {
+      "titulo": "Aula 03",
+      "description": "Aula 03",
+      "url": "https://www.youtube.com/watch?v=4I3hjWBT64I&list=PLLLcJBnPoJ1HMom9Usa8hGzCcUnLqep1Y&index=3",
+      "categoriaId": 3,
+      "id": 22
+    },
+    {
+      "titulo": "Aula 04",
+      "description": "Aula 04",
+      "url": "https://www.youtube.com/watch?v=tpUq0ecCvCI&list=PLLLcJBnPoJ1HMom9Usa8hGzCcUnLqep1Y&index=4",
+      "categoriaId": 3,
+      "id": 23
+    },
+    {
+      "titulo": "Aula 05",
+      "description": "Aula 05",
+      "url": "https://www.youtube.com/watch?v=TexBnzXNzHQ&list=PLLLcJBnPoJ1HMom9Usa8hGzCcUnLqep1Y&index=5",
+      "categoriaId": 3,
+      "id": 24
+    },
+    {
+      "titulo": "Aula 06",
+      "description": "Aula 06",
+      "url": "https://www.youtube.com/watch?v=ScgWDefovV8&list=PLLLcJBnPoJ1HMom9Usa8hGzCcUnLqep1Y&index=6",
+      "categoriaId": 3,
+      "id": 25
+    },
+    {
+      "titulo": "Aula 07",
+      "description": "Aula 07",
+      "url": "https://www.youtube.com/watch?v=rAZ0HJ2kSys&list=PLLLcJBnPoJ1HMom9Usa8hGzCcUnLqep1Y&index=7",
+      "categoriaId": 3,
+      "id": 26
+    },
+    {
+      "titulo": "Cordas",
+      "description": "Animação",
+      "url": "https://www.youtube.com/watch?v=4INwx_tmTKw&t=74s",
+      "categoriaId": 4,
+      "id": 27
+    },
+    {
+      "titulo": "A pessoa é para o que nasce",
+      "description": "Documentário",
+      "url": "https://www.youtube.com/watch?v=fBit6jVdgKQ",
+      "categoriaId": 4,
+      "id": 28
+    },
+    {
+      "titulo": "Janela da Alma",
+      "description": "Documentário",
+      "url": "https://www.youtube.com/watch?v=47VEtw2JMU0",
+      "categoriaId": 4,
+      "id": 29
+    },
+    {
+      "titulo": "E Seu Nome é Jonas",
+      "description": "Filme",
+      "url": "https://www.youtube.com/watch?v=ZqPA9g-YerE",
+      "categoriaId": 4,
+      "id": 30
+    },
+    {
+      "titulo": "Aula 08",
+      "description": "Aula 08",
+      "url": "https://www.youtube.com/watch?v=UJfYbcgotn0&list=PLLLcJBnPoJ1HMom9Usa8hGzCcUnLqep1Y&index=8",
+      "categoriaId": 3,
+      "id": 31
     }
   ]
 }

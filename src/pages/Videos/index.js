@@ -6,6 +6,7 @@ import Footer from "../../components/Footer";
 import "./index.css"
 import repository from "../../Repository.js"
 import ModalDialog from '../../components/Modal';
+import config from "../../config.js";
 
 function CadastroVideo() {
     const { register, handleSubmit, errors } = useForm();
@@ -21,6 +22,9 @@ function CadastroVideo() {
     const handleYes = () => {
       alert("Clicou em sim");
       setOpen(false);
+      document.location.reload(true)
+      
+     
     };
 
 
@@ -32,7 +36,7 @@ function CadastroVideo() {
 
       function onSubmit(dados) {
         console.log("Dados:", dados);
-        fetch(`http://localhost:8080/videos`, {
+        fetch(`${config.URL_BACKEND}/videos`, {
         method: "post",
         headers: {
         "Content-Type": "application/json",

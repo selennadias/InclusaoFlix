@@ -122,9 +122,8 @@ function CadastroVideo() {
              handleSim = {handleYes}
              handleNao = {handleNo}
           />
-          <Link to="/">
-                Ir para home
-          </Link>
+          <Link to="/">Ir para home</Link>
+          <br/><br/>
 
             <Footer />
             </div>

@@ -153,7 +153,7 @@
       "titulo": "O que você aprendeu no curso",
       "description": "Considerações",
       "url": "https://www.youtube.com/watch?v=DOJOqxKofag&list=PL97gQ9M95E9uS8In1cnkXPAT_ROdx7f7y&index=11",
-      "categoriaId": 1,
+      "categoriaId": 2,
       "id": 18
     },
     {
@@ -246,6 +246,14 @@
       "url": "https://www.youtube.com/watch?v=UJfYbcgotn0&list=PLLLcJBnPoJ1HMom9Usa8hGzCcUnLqep1Y&index=8",
       "categoriaId": 3,
       "id": 31
-    }
-  ]
+    },
+	
+	{
+		"titulo": "O que é Tecnologia Assistiva? I Unesc TV",
+		"description": "Como tornar o mundo mais acessível? As novas tecnologias ajudam a melhorar a qualidade de vida das pessoas com deficiência. O curso de Design da Unesc trabalha no desenvolvimento de novos produtos que promovem a inclusão e a autonomia. ",
+		"url": "https://youtu.be/_iY9rdM8TYg",
+		"categoriaId": 1,
+		"id": 32
+	}
+]
 }

@@ -112,7 +112,9 @@ function CadastroVideo() {
               />
             </form>
             <br />
-            <Link to="/categorias">Cadastrar Categoria </Link>
+            <Link to="/categorias">Cadastrar Categoria </Link> <br/>
+            <Link to="/"> Ir para Home </Link>
+            <br/><br/><br/>
             </div>
             <ModalDialog 
              open = {open}
@@ -122,8 +124,8 @@ function CadastroVideo() {
              handleSim = {handleYes}
              handleNao = {handleNo}
           />
-          <Link to="/">Ir para home</Link>
-          <br/><br/>
+         
+          
 
             <Footer />
             </div>

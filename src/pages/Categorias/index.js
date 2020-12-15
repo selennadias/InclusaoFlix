@@ -65,9 +65,11 @@ function CadastroCategoria() {
              handleSim = {handleYes}
              handleNao = {handleNo}
           />
+          <br/>
           <Link to="/">
                 Ir para home
           </Link>
+          <br/><br/><br/><br/>
          <Footer />
          </div>
          )
